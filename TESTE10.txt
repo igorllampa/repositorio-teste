@@ -1,1 +1,2 @@
 Teste de envio de arquivo
+Alteração realizada através do Editor disponível em GitHub.com.
